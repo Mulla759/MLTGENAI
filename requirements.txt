@@ -1,0 +1,17 @@
+# Flask API and Serving
+flask
+flask-cors
+gunicorn
+
+# RAG Libraries (ChromaDB and Local Embeddings)
+chromadb
+sentence-transformers
+numpy
+
+# Data Retrieval and Environment
+requests
+python-dotenv
+
+# For Ingestion Service (HTML Parsing)
+beautifulsoup4
+lxml

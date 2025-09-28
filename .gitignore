@@ -1,4 +1,31 @@
+------------------------------------
+Generated Data and Databases
+------------------------------------
+The large, generated vector database. MUST be ignored to prevent push timeouts.
+
+chroma_db/
+------------------------------------
+Python Environment and Build Artifacts
+------------------------------------
+Virtual environment folder
+
 myenv/
-__pycache__/
+Python compiled bytecode and cache folders
+
+pycache/
 *.pyc
+Environment variable files
+
+.env
+------------------------------------
+Operating System Files
+------------------------------------
+macOS temporary/metadata files
+
 .DS_Store
+------------------------------------
+Build and Deployment Artifacts
+------------------------------------
+Ignore compilation targets or large build output folders
+
+target/
